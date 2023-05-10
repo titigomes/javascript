@@ -1,0 +1,1 @@
+console.log('A raiz Quadrada de 25 é '+Math.sqrt(25))
